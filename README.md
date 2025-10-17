@@ -3,14 +3,16 @@
 
 <!-- Título principal -->
 <h1 align="center">👋 ¡Hola! Soy <strong>Miguel Portillo</strong></h1>
-
+<div align="center">
+  <p align="center">
+  <img src="https://github.com/JMiguelPortilloLl.png" width="200" style="border-radius: 50%;"/>
+</p>
+</div>
 <!-- Subtítulo -->
 <h3 align="center">💻 Desarrollador Full Stack | React ⚛️ • C# 💠 • Node.js 🌱 • SQL 🧠</h3>
 
 <!-- Snake -->
-<div align="center">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake" />
-</div>
+
 
 ---
 
