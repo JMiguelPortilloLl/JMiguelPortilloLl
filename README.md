@@ -20,10 +20,8 @@
 - 🚀 Proyectos desplegados en **Vercel**, **Netlify**, **Azure** y **Render** 🌐
 - 🌱 Aprendiendo más sobre **arquitecturas escalables y buenas prácticas de backend**
 - 🗄️ Manejo de bases de datos: **MySQL**, **SQL Server** y **PostgreSQL**.
-- ☁️ Interesado en **Cloud Computing y despliegues en AWS**  
-- 💬 Pregúntame sobre **frontend moderno, APIs REST y optimización de interfaces**  
+- ☁️ Interesado en **Cloud Computing y despliegues en AWS**   
 - 📫 Puedes contactarme en: **jmiguel.por.ll@gmail.com**  
-- ⚡ Fun fact: ¡Me encanta optimizar código y darle un toque visual atractivo a cada proyecto!  
 
 ---
 
