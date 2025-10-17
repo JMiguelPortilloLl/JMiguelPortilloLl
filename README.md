@@ -51,7 +51,7 @@
 ### 🤝 Conecta conmigo
 
 <p align="center">
-  <a href="www.linkedin.com/in/miguel-portillo-5ba1352a" target="_blank">
+  <a href="https://www.linkedin.com/in/miguel-portillo-5ba1352a4/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
   </a>
   <a href="https://twitter.com/miguelportillo" target="_blank">
