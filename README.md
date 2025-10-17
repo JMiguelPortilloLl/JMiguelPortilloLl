@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
 <!-- Título principal -->
-<h1 align="center">👋 ¡Hola! Soy <strong>Miguel Portillo</strong></h1>
+<h1 align="center">¡Hola! Soy <strong>Miguel Portillo</strong></h1>
 <div align="center">
   <p align="center">
   <img src="https://github.com/JMiguelPortilloLl.png" width="200" style="border-radius: 50%;"/>
